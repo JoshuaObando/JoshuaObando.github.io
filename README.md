@@ -51,3 +51,56 @@ It includes:
 
 _This template can be deployed directly via GitHub Pages for live previews._
 
+# 🌐 Sitio Web de Portafolio Personal
+
+Este es un portafolio personal creado con HTML, CSS y JavaScript. Sirve como una plantilla sencilla para presentar proyectos, información de contacto y un resumen profesional. Está diseñado para ser desplegado como un sitio estático mediante GitHub Pages.
+
+---
+
+## 📄 Descripción General
+
+El propósito de este sitio es presentar mi trabajo académico y personal como estudiante de informática. Incluye:
+
+- Sección principal con mi nombre y logotipo
+- Galería de proyectos con imágenes representativas
+- Estilo visual personalizado y diseño adaptable
+- Área de contacto (editable)
+
+---
+
+## 🛠️ Tecnologías Utilizadas
+
+- HTML
+- CSS (`Estilo.css`)
+- JavaScript (`script.js`)
+- Despliegue: GitHub Pages
+
+---
+
+## 🖼️ Recursos
+
+- Imagen personalizada utilizada: `Imagenes/barberia.png`
+- Podés cambiar o agregar imágenes para mostrar otros proyectos.
+
+---
+
+## 🚀 Cómo Usarlo
+
+1. Clonar o forquear este repositorio
+2. Editar `index.html` para agregar tu información personal y proyectos
+3. Modificar estilos en `Estilo.css`
+4. Agregar interactividad si se desea en `script.js`
+5. Subir a GitHub y activar **Pages** desde la configuración del repositorio
+
+---
+
+## 🧠 Autor
+
+- Joshua Obando González  
+  *Estudiante de Informática que desarrolla aplicaciones usando ASP.NET, Java, Docker y SQL.*
+
+---
+
+## 🔗 Vista en línea
+
+Este portafolio puede desplegarse como sitio web usando GitHub Pages.
