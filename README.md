@@ -1,6 +1,5 @@
 # 🌐 Personal Portfolio Website
 
----
 This is a personal portfolio template created with HTML, CSS, and JavaScript. It showcases sections for presenting projects, contact information, and a brief profile summary. It is intended to be used as a static website hosted on GitHub Pages.
 
 ---
